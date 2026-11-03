@@ -2,11 +2,11 @@
 // config.php
 session_start();
 
-$db_host = 'mysql-1bef5a14-policemanagement.l.aivencloud.com';
-$db_port = '14728';
+$db_host = 'sql205.infinityfree.com';
+$db_port = '3306';
 $db_name = 'defaultdb';
-$db_user = 'avnadmin';
-$db_pass = 'AVNS_pwNhwFROkEKlwVLDdfH';
+$db_user = 'if0_43333449';
+$db_pass = 'olsV6ZnDwDXVxu';
 
 try {
     $pdo = new PDO("mysql:host=$db_host;port=$db_port;dbname=$db_name;charset=utf8mb4", $db_user, $db_pass, [
