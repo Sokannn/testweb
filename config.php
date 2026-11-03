@@ -4,7 +4,7 @@ session_start();
 
 $db_host = 'sql205.infinityfree.com';
 $db_port = '3306';
-$db_name = 'defaultdb';
+$db_name = 'if0_43333449_post';
 $db_user = 'if0_43333449';
 $db_pass = 'olsV6ZnDwDXVxu';
 
